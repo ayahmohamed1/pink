@@ -24,7 +24,7 @@ const giftData: Record<string, GiftData> = {
   // Link: yourdomain.com/gift/aya
   // ----------------------------------------------------------
   aya: {
-    name: "Youssef",                                     // اسم مستلم الهدية
+    name: "Habibty",                                     // اسم مستلم الهدية
     senderName: "your love",                                   // التوقيع في آخر الرسالة (اختياري)
     envelopeImage: "/images/envelope-aya.png",           // صورة الظرف
     birthdayImage: "/images/birthday-aya.png",           // صورة الهدية النهائية
